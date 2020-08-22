@@ -1,2 +1,2 @@
 # Python-cheat-sheet
-For more - https://www.pythoncheatsheet.org/
+For more details- https://www.pythoncheatsheet.org/
